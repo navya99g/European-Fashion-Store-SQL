@@ -1,9 +1,9 @@
-# European Fashion Store Data Analysis using SQL
+  # European Fashion Store Data Analysis using SQL
 
----
 
 
 ## Project Overview
+
 
 This project focuses on analysing a European fashion retail database to derive meaningful business insights related to sales performance, customer behaviour, product profitability, and campaign effectiveness, utilising SQL.
 
@@ -11,37 +11,40 @@ The analysis demonstrates the use of advanced SQL techniques such as joins, subq
 
 ---
 
-
 ## Dataset
+
 
 The dataset consists of multiple relational tables:
 
-- \*\*Customers\*\*: Customer demographic and signup details
+- **Customers**: Customer demographic and signup details
 
-- \*\*Products\*\*: Product, brand, category, and pricing information
+- **Products**: Product, brand, category, and pricing information
 
-- \*\*Sales\*\*: Sales transactions and channels
+- **Sales**: Sales transactions and channels
 
-- \*\*Salesitems\*\*: Line-item level sales data including quantity, discounts, and revenue
-
+- **Salesitems**: Line-item level sales data including quantity, discounts, and revenue
 
 All datasets are included in the repository for learning and portfolio purposes.
 
 ---
 
-
 ## Objectives
 
+
 * Analyse revenue and profitability across products and customers
+
 * Identify top-performing products, brands, and regions
+
 * Evaluate campaign and sales channel effectiveness
+
 * Perform time-series and cohort-based customer analysis
+
 * Segment customers based on revenue and purchasing behaviour
 
 ---
 
-
 ## SQL Analysis Overview
+
 
 | SQL File | Analysis Area | Key Concepts |
 |--------|---------------|-------------|
@@ -56,8 +59,8 @@ All datasets are included in the repository for learning and portfolio purposes.
 
 ---
 
-
 ## Tools Used
+
 
 * SQL
 * PostgreSQL
@@ -65,18 +68,16 @@ All datasets are included in the repository for learning and portfolio purposes.
 
 ---
 
-
 ## Key Analysis 
 
+
 - Applied advanced SQL techniques to solve complex analytical problems
+
 - Translated business questions into structured SQL queries
+
 - Improved query readability and maintainability using CTEs and comments
 
-
 ---
-
-
-
 
 
 
